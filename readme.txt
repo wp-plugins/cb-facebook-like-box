@@ -36,11 +36,11 @@ see this screenshot http://prntscr.com/7yd0xi
 
 == Screenshots ==
 
-1. Admin Panel
-'/assets/screenshot-1.png' would win over '/tags/4.3/screenshot-1.png' 
+1. Admin Panel 1
 
-2. Admin Panel
-'/assets/screenshot-2.png' would win over '/tags/4.3/screenshot-2.png' 
+
+2. Admin Panel 2
+
 
 3. Output Panel
 
