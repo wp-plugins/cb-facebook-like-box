@@ -43,7 +43,7 @@ see this screenshot http://prntscr.com/7yd0xi
 '/assets/screenshot-2.png' would win over '/tags/4.3/screenshot-2.png' 
 
 3. Output Panel
-'/assets/screenshot-3.png' would win over '/tags/4.3/screenshot-3.png' 
+
 
 == Changelog ==
 
